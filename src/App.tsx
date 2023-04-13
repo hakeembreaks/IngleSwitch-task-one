@@ -5,8 +5,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import './App.css';
 
-import Grid from '@material-ui/core/Grid'
-import Paper from '@material-ui/core/Paper'
+import {Paper, Grid} from '@mui/material'
 
 
 import CartList from './components/CartList';
